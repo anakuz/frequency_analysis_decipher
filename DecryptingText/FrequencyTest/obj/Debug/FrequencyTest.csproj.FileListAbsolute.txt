@@ -1,0 +1,6 @@
+E:\учёба\крипта\5 семестр\Крипта\Лаба 6\DecryptingText\FrequencyTest\bin\Debug\FrequencyTest.exe.config
+E:\учёба\крипта\5 семестр\Крипта\Лаба 6\DecryptingText\FrequencyTest\bin\Debug\FrequencyTest.exe
+E:\учёба\крипта\5 семестр\Крипта\Лаба 6\DecryptingText\FrequencyTest\bin\Debug\FrequencyTest.pdb
+E:\учёба\крипта\5 семестр\Крипта\Лаба 6\DecryptingText\FrequencyTest\obj\Debug\FrequencyTest.csprojResolveAssemblyReference.cache
+E:\учёба\крипта\5 семестр\Крипта\Лаба 6\DecryptingText\FrequencyTest\obj\Debug\FrequencyTest.exe
+E:\учёба\крипта\5 семестр\Крипта\Лаба 6\DecryptingText\FrequencyTest\obj\Debug\FrequencyTest.pdb
